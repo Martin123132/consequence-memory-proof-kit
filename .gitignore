@@ -1,0 +1,17 @@
+# Local/editor files
+.DS_Store
+Thumbs.db
+*.tmp
+*.log
+
+# Local proof/output scratch space
+out/
+tmp/
+dist/
+build/
+
+# Python caches if reviewers run local tools later
+__pycache__/
+.pytest_cache/
+.mypy_cache/
+

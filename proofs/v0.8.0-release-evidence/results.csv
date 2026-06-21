@@ -1,0 +1,3 @@
+benchmark,thresholds_passed,threshold_failure_count,results_path,summary_path,evidence_card_path
+warehouse,True,0,01-warehouse/results.csv,01-warehouse/summary.json,01-warehouse/evidence_card.md
+organism,True,0,02-organism/results.csv,02-organism/summary.json,02-organism/evidence_card.md
