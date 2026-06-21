@@ -60,6 +60,8 @@ Start with:
 
 ## Buyer And Reviewer Materials
 
+- [Defensive disclosure](docs/defensive-disclosure.md)
+- [Artifact hashes](docs/artifact-hashes.md)
 - [Public proof one-pager](docs/public-proof-one-pager.md)
 - [Evidence review guide](docs/evidence-review-guide.md)
 - [Architecture overview](docs/architecture-overview.md)
@@ -72,4 +74,3 @@ Start with:
 This repository exists so interested people can understand the shape of the work without receiving the private engine.
 
 The public proof kit can be cited, reviewed, and linked for evaluation. The implementation, private release artifacts, benchmark internals, and commercial use rights remain private unless granted separately in writing.
-

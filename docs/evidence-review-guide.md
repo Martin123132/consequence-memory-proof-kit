@@ -3,6 +3,8 @@
 Start with the suite evidence:
 
 - [v0.8.0 release evidence](../proofs/v0.8.0-release-evidence/README.md)
+- [artifact hashes](artifact-hashes.md)
+- [defensive disclosure](defensive-disclosure.md)
 
 Then inspect the benchmark cards:
 
@@ -42,4 +44,3 @@ The public-safe `v0.8.0` evidence shows:
 ## What To Ask For Privately
 
 If you need to review implementation, benchmark internals, or private release artifacts, use [ACCESS_REQUEST.md](../ACCESS_REQUEST.md).
-
