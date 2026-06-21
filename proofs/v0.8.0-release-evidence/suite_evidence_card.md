@@ -25,8 +25,8 @@ Thresholds and regressions passed. This bundle is ready to cite as release evide
 
 | Benchmark | Thresholds | Failures | Evidence |
 | --- | --- | ---: | --- |
-| `warehouse` | passed | 0 | [card](01-warehouse/evidence_card.md) |
-| `organism` | passed | 0 | [card](02-organism/evidence_card.md) |
+| `warehouse` | passed | 0 | [card](warehouse/evidence_card.md) |
+| `organism` | passed | 0 | [card](organism/evidence_card.md) |
 
 ## Regression Checks
 

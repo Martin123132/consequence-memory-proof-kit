@@ -19,6 +19,8 @@ Public-safe proof materials in this repo show:
 - release-grade product-gates evidence
 - private-core/public-proof publication boundary
 
+New visitors should start with the [Product Brief](PRODUCT_BRIEF.md), then review the [private-core/public-proof model](docs/private-core-public-proof-model.md).
+
 ## Locked Results
 
 The `v0.8.0` product-gates evidence bundle passed thresholds and regressions.
@@ -51,6 +53,12 @@ The `v0.8.0` product-gates evidence bundle passed thresholds and regressions.
 
 The private implementation remains closed. Access to the private repository, private wheel, source distribution, benchmark internals, or commercial evaluation requires written permission from Motion-TimeSpace / Martin Ollett and may require a signed NDA.
 
+To request private access, open a GitHub issue using the private access request template:
+
+https://github.com/Martin123132/consequence-memory-proof-kit/issues/new?template=access_request.md
+
+Do not include confidential details, private email addresses, NDA material, or commercially sensitive plans in a public issue. Use the issue to request contact and describe the access level at a high level.
+
 Start with:
 
 - [Access Request](ACCESS_REQUEST.md)
@@ -60,6 +68,8 @@ Start with:
 
 ## Buyer And Reviewer Materials
 
+- [Product Brief](PRODUCT_BRIEF.md)
+- [Private-core/public-proof model](docs/private-core-public-proof-model.md)
 - [Defensive disclosure](docs/defensive-disclosure.md)
 - [Artifact hashes](docs/artifact-hashes.md)
 - [Public proof one-pager](docs/public-proof-one-pager.md)

@@ -2,6 +2,12 @@
 
 Before requesting private access, decide what you need.
 
+Request access here:
+
+https://github.com/Martin123132/consequence-memory-proof-kit/issues/new?template=access_request.md
+
+Do not post confidential details, private email addresses, NDA material, or commercially sensitive plans in a public GitHub issue.
+
 ## Evaluation Type
 
 - public proof review only
@@ -18,7 +24,7 @@ Before requesting private access, decide what you need.
 - organisation
 - role
 - GitHub username
-- contact email
+- public contact route, or note that private contact is required
 - intended use
 - requested access level
 - whether an NDA can be signed before access
@@ -35,4 +41,3 @@ An access request can be:
 - declined
 
 Private access is not automatic.
-

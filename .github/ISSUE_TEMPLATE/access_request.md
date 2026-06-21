@@ -11,7 +11,9 @@ assignees: ""
 - Name:
 - Organisation:
 - GitHub username:
-- Contact email:
+- Public contact route, or say private contact is required:
+
+Do not post confidential details, private email addresses, NDA material, or commercially sensitive plans in this public issue.
 
 ## Intended Use
 
@@ -27,4 +29,3 @@ assignees: ""
 ## Notes
 
 Add any detail needed to understand the request.
-

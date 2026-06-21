@@ -4,12 +4,14 @@ Use this page when requesting access to the private Consequence Memory engine, p
 
 Private access is not automatic. Access may require identity verification, intended-use review, written permission, and an NDA.
 
+Public GitHub issues are public. Do not include confidential details, private email addresses, NDA material, or commercially sensitive plans in a public issue. Use the public issue to request contact and describe the access level at a high level.
+
 ## Request Checklist
 
 Include:
 
 - your name and organisation
-- contact email
+- public contact route, or say that private contact is required
 - GitHub username
 - intended use
 - whether the use is personal, research, nonprofit, commercial evaluation, or production commercial
@@ -52,7 +54,7 @@ I am requesting private access to Consequence Memory.
 Name:
 Organisation:
 GitHub username:
-Contact email:
+Public contact route or private contact requested:
 Intended use:
 Access requested:
 Commercial or noncommercial:
@@ -60,4 +62,3 @@ Will sign NDA before access: yes/no
 Will any AI platform, model provider, search engine, hosted service, or commercial product use this work: yes/no
 Notes:
 ```
-
